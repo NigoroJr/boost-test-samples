@@ -1,4 +1,4 @@
-# Sample Usage of Boost Unit Test Framework
+# Boost.Test Sample Programs
 
 ## Description
 These are some sample programs to try out the
