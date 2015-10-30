@@ -7,8 +7,8 @@ unit testing framework.
 
 ## Usage
 Go into any of the directories. If there is a `build` directory, go into that
-and run `cmake ..`. If not, compile it and link against the unit test
-framework with:
+and run `cmake ..` then run `make`. If not, compile it and link against the
+unit test framework with:
 
     g++ -std=c++11 -lboost_unit_test_framework <source file>
 
